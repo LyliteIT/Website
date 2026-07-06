@@ -4,3 +4,8 @@
 ### Goals: 
 - Learn HTML by creating the website first only with HTML then moving on to CSS, JS.
 - An Educative page that explains what Ive learned throughout creating the website
+
+
+
+##### Resources used to learn: 
+1. https://www.w3schools.com/html/
