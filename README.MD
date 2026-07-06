@@ -9,3 +9,4 @@
 
 ##### Resources used to learn: 
 1. https://www.w3schools.com/html/
+2. https://developer.mozilla.org/en-US/docs/Web/HTML
